@@ -9,9 +9,8 @@ class Decryptor():
     script_inject = "_inject.js"
     DecryptorNativeFnc = None
 
-    def __init__(self, file, pid, gadget, lua_header, output):
+    def __init__(self, file, pid, gadget, lua_header):
         self.lua_header = lua_header
-        self.output = output
         try:
             self.device = frida.get_usb_device()
             if file:
