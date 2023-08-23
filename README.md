@@ -10,7 +10,7 @@ Before you start using this tool you will need gather the following 3 informatio
 ![Ghidra Function Search](https://i.imgur.com/00KY5ak.png)
 ![XXTEA_DECRYPT OFFSET](https://i.imgur.com/95lP8zW.png)
 
-3. Finally, we will be needing the fetching the header from the `.luac` file.
+3. Finally, we will be fetching the header from the `.luac` file.
 ![LUAC HEADER](https://i.imgur.com/Ef23kLA.png)
 
 
